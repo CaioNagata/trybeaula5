@@ -1,0 +1,6 @@
+@trybeaula5_HostAddress = http://localhost:5204
+
+GET {{trybeaula5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
